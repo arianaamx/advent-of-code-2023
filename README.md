@@ -1,4 +1,4 @@
 # Run the solutions
 
 To run the program use:
-`python3 -m day1.day`
+`python3 -m day1.day1`
